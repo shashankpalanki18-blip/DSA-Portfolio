@@ -6,6 +6,6 @@ Welcome to my personal repository where I track my second-year engineering progr
 | Category | Description |
 | :--- | :--- |
 | **[DSA Striver](./dsa-striver/)** | C++ solutions following Striver's SDE/A2Z Sheet. |
-| **[Competitive Programming](./competitive-programming/)** | Practice solutions from Codeforces and contests. |
+| **[Competitive Programming](./dsa-cf/)** | Practice solutions from Codeforces and contests. |
 ---
 *Maintained by an IIT BHU CSE student.*
